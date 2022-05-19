@@ -1,7 +1,6 @@
 package com.pairprogramming;
 
 import com.pairprogramming.vendingmachine.VendingMachine;
-import com.pairprogramming.vendingmachine.VendingMachineFactory;
 
 import java.util.Scanner;
 
